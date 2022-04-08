@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "culprit-react-native-assessment",
+    "slug": "culprit-react-native-assessment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
